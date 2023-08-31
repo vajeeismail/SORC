@@ -38,10 +38,11 @@ The **SLIATE Online Results Care (SORC)** project is a web-based application des
 
 ## Documentation
 
-I have added the final [report]() of this project to the SORC project repository.
+I have added the final [report](https://github.com/vajeeismail/SORC/blob/master/sorc/Final%20Report%20-%20SORC.pdf) of this project to the SORC project repository.
 
 ## Use Case Diagram
 You can understand this project through [use-case diagram]().
+<img src = "https://github.com/vajeeismail/SORC/blob/master/sorc/Usecase(SORC).drawio.png"/>
 ## Contributing
 *It's an individual project, developed by me*, <br>
 **Vajeehullah Ismail**: A student in Software Engineering
